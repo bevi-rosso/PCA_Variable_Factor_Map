@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: variable-factor-map-huybui
+Version: 0.0.1
+Summary: Variable Factor Map
+Home-page: https://github.com/williamhuybui/PCA-variable-factor-map
+Author: Huy Bui
+Author-email: williamhuybui@gmail.com
+License: UNKNOWN
+Description: # Variable Factor Map
+        
+        ## 1) Description
+        The package provides a convinient way for Python users to plot the Variable Factor Map.
+        
+        # 2) Requirement
+        Python 3.6
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
