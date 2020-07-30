@@ -1,7 +1,0 @@
-README.md
-setup.py
-source/__init__.py
-variable_factor_map_huybui.egg-info/PKG-INFO
-variable_factor_map_huybui.egg-info/SOURCES.txt
-variable_factor_map_huybui.egg-info/dependency_links.txt
-variable_factor_map_huybui.egg-info/top_level.txt
